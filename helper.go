@@ -1,6 +1,8 @@
 package main
 
-import "strings"
+import (
+	"strings"
+)
 
 // helper functions that are shared in many fiels
 // takes parameters and determines if isVAlid for each is true or false
